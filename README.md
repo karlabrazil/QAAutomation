@@ -11,14 +11,8 @@ PRE-REQUISITES:
 - Plugin for Robot Framework Support
 - Chromedriver
 
-I. SETTING UP PYTHON AND IDE
-II. UNDERSTANDING THE FOLDER STRUCTURE
-III. RUNNING THE AUTOMATION SCRIPT
-IV. SAMPLE RESOURCES FOR AUTOMATION
-V. TROUBLESHOOTING
 
-
-**************** I. SETTING UP PYTHON AND IDE ****************
+I. SETTING UP PYTHON AND IDE 
 1. Download python - 3.8.3. Choose executable installer.
 https://www.python.org/downloads/release/python-383/
 
@@ -64,7 +58,7 @@ In environment variable:
 
 13. Download chromedriver to use in executing the scripts. Configure with the IDE.
 
-**************** II. FOLDER STRUCTURE ****************
+II. FOLDER STRUCTURE
 The project can be downloaded via the Snapmart.zip file. Extract the file first then open as a new project.
 a. Resources.robot - this holds commonly used keywords that is used in our automation script file.
 b. TestCases - this directory holds the following:
@@ -74,7 +68,7 @@ b. TestCases - this directory holds the following:
   b.4 report.html - contains the report file for the execution output
 c. venv - this directory contains libraries and python packages
   
-**************** III. RUNNING THE AUTOMATION SCRIPT ****************
+III. RUNNING THE AUTOMATION SCRIPT
 The automation script file follows a sequence of customer logging in to purchase an order of Eggfruit Juice using his/her wallet.
 
 The main file is under TestCases > Automationexam.robot and uses keywords from the resources.robot file.
@@ -90,15 +84,11 @@ ie. C:\Users\PC\PycharmProjects\Snapmart\TestCases\report.html
 
 4. In the report, the test will show keywords along with page screenshots. Some of these screenshots are under the keywords so there is a need to expand in order to check the screenshot such as in Login, Delivery Details, etc.
 
-**************** IV. SAMPLE RESOURCES FOR AUTOMATION ****************
+IV. SAMPLE RESOURCES FOR AUTOMATION 
 Included in this github repository are the sample resources such as:
 - sample report file
 - sample screenshot
 - sample video of automation file being executed
 
-**************** V. TROUBLESHOOTING ****************
+V. TROUBLESHOOTING
 In case an error occurs or the test is not able to run, feel free to contact me at karlamaec.brazil@gmail.com.
-
-
-
-
