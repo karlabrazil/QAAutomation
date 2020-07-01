@@ -1,5 +1,5 @@
 #INTRODUCTION
-This is a readme file for the QA Automation Exam for Snapmart created by Karla Mae Brazil. Please read this file first before executing the script.
+This is a readme file for the QA Automation Exam created by Karla Mae Brazil. Please read this file first before executing the script.
 The main automation file uses Robot Framework which has the advantage of creating scripts that are fast and easily understood by all.
 
 PRE-REQUISITES:
