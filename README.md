@@ -85,9 +85,8 @@ ie. C:\Users\PC\PycharmProjects\Snapmart\TestCases\report.html
 
 IV. SAMPLE RESOURCES FOR AUTOMATION 
 Included in this github repository are the sample resources such as:
-- sample report file
-- sample screenshot
-- sample video of automation file being executed
+- ReportScreenshots.zip which contains the screenshots of the report file
+- Automation.mp4 which is a video of the automated test being executed
 
 V. TROUBLESHOOTING
 - In case an error occurs or the test is not able to run, feel free to contact me at karlamaec.brazil@gmail.com.
