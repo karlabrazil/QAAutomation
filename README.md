@@ -60,18 +60,17 @@ In environment variable:
 
 II. FOLDER STRUCTURE
 The project can be downloaded via the Snapmart.zip file. Extract the file first then open as a new project.
-a. Resources.robot - this holds commonly used keywords that is used in our automation script file.
-b. TestCases - this directory holds the following:
-  b.1 AutomationExam.robot - this is the main automation file that should be executed
-  b.2 log.html - contains the log files in every run
-  b.3 output.xml - contains the output file that can be configured
-  b.4 report.html - contains the report file for the execution output
-c. venv - this directory contains libraries and python packages
+- Resources.robot - this holds commonly used keywords that is used in our automation script file.
+-TestCases - this directory holds the following:
+  - AutomationExam.robot - this is the main automation file that should be executed
+  - log.html - contains the log files in every run
+  -output.xml - contains the output file that can be configured
+  -report.html - contains the report file for the execution output
+- venv - this directory contains libraries and python packages
   
 III. RUNNING THE AUTOMATION SCRIPT
-The automation script file follows a sequence of customer logging in to purchase an order of Eggfruit Juice using his/her wallet.
-
-The main file is under TestCases > Automationexam.robot and uses keywords from the resources.robot file.
+- The automation script file follows a sequence of customer logging in to purchase an order of Eggfruit Juice using his/her wallet.
+- The main file is under TestCases > Automationexam.robot and uses keywords from the resources.robot file.
 
 To run the script in command line, please follow these steps:
 1. Open command line and place the path of the project using cd: cd *test cases path*
@@ -91,4 +90,4 @@ Included in this github repository are the sample resources such as:
 - sample video of automation file being executed
 
 V. TROUBLESHOOTING
-In case an error occurs or the test is not able to run, feel free to contact me at karlamaec.brazil@gmail.com.
+- In case an error occurs or the test is not able to run, feel free to contact me at karlamaec.brazil@gmail.com.
