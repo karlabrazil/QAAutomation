@@ -61,7 +61,7 @@ In environment variable:
 II. FOLDER STRUCTURE
 The project can be downloaded via the Snapmart.zip file. Extract the file first then open as a new project.
 - Resources.robot - this holds commonly used keywords that is used in our automation script file.
--TestCases - this directory holds the following:
+- TestCases - this directory holds the following:
   - AutomationExam.robot - this is the main automation file that should be executed
   - log.html - contains the log files in every run
   -output.xml - contains the output file that can be configured
